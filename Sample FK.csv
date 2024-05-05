@@ -1,0 +1,2 @@
+ConstraintName,TableName,ConstraintType,ColumnName,ReferencedTableName,ReferencedColumnName
+FK_Invoice,Invoice,Foreign Key,CreatedBy,User,ID
