@@ -11,6 +11,8 @@ with open('config.yaml', 'r') as file:
 
 is_lower = True
 
+
+
 def connect_to_db(max_retries=3, retry_interval=5):
     attempts = 0
     while attempts < max_retries:
