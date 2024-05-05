@@ -10,12 +10,12 @@
   ### Start the server
     python3 main
 
-
+## Create PK and FK
 
 To start with,you have to analyse the existing tables,list down the constaint names,table name,column names,refernce column and tables.Refer the Sample files provided
 and list down the details as per the format.
 
-## Open Swagger on <host>:8000/docs
+### Open Swagger on <host>:8000/docs
 
 Before creating PK/FK, do a sanity check of data using sanity_check api
 ![image](https://github.com/Anand1923/postgres_create_pk_fk/assets/93506298/8083f150-0a0f-485f-bf5e-219bd1366696)
